@@ -2,7 +2,7 @@
 The repo provides documents and config files to help newbies setup development environment and contribute code to Firefox. The document is referred to the [Simple Firefox build][simple-firefox-build] document on [MDN][mdn].
 
 ## Get Started
-Before start to hack Firefox, you need to setup your development environment and build/run your own Firefox with source code.
+Before start to hack Firefox, you need to setup your development environment to build and run your own Firefox with source code.
 
 ### Setup Development Environment
 1. Install [homebrew][homebrew] with the `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` command.
