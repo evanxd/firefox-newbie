@@ -1,2 +1,2 @@
-# firefox-newbie
-Documents and config files for newbie to contribute code to Firefox.
+# Firefox Newbie
+The repo provides documents and config files to help newbies setup development environment and contribute code to Firefox.
