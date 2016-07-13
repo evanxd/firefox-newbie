@@ -15,9 +15,18 @@ Before start to hack Firefox, you need to setup your development environment to 
 2. Run `./mach build`. If you would like to build faster, please run `./mach build faster`.
 
 ### Run Firefox
-1. Run `./mach run` to launch the Firefox Nightly you just built.
+* Run `./mach run` to launch the Firefox Nightly you just built.
 
 Now, let's start to hack Firefox!
+
+## Run Test
+Please ensure Firefox is closed before run test.
+
+### Run All Tests
+* Run `./mach test`.
+
+### Run A Specific Test
+* Run `./mach test <path_to_test_file>`. For example, run `./mach test devtools/client/shared/components/test/mochitest/test_reps_grip.html` to run the `Rep test - grip` test.
 
 [homebrew]: http://brew.sh
 [macos-dependencies]: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Mac_OS_X_Prerequisites
