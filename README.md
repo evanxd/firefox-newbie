@@ -6,7 +6,7 @@ Before hack Firefox, you need to setup your development environment and build/ru
 
 ### Setup Development Environment
 1. Install [homebrew][homebrew] with the `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` command.
-2. Run the `brew doctor` command to ensure there is no any warning and show `Your system is ready to brew.` or fix it.
+2. Run `brew doctor` to ensure there is no warning and show `Your system is ready to brew.` or fix it.
 3. [Install the dependencies on Mac OS][macos-dependencies] for building Firefox with the `curl https://hg.mozilla.org/mozilla-central/raw-file/default/python/mozboot/bin/bootstrap.py > bootstrap.py && python bootstrap.py` command.
 4. Get the source code of Firefox with the `hg clone https://hg.mozilla.org/mozilla-central` command.
 
