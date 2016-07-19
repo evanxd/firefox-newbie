@@ -39,6 +39,9 @@ Please ensure Firefox is closed before run test.
 * [Good First Bugs for Dev Tools][devtools-good-first-bug]
 * [Dev Tools Project Tracking][devtools-project-tracking]
 
+## Tips
+* [Dev Tools][devtools]
+
 [homebrew]: http://brew.sh
 [macos-dependencies]: https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Mac_OS_X_Prerequisites
 [mozconfig]: https://github.com/evanxd/firefox-newbie/blob/master/mozconfig
@@ -50,3 +53,4 @@ Please ensure Firefox is closed before run test.
 [bug-988801]: http://bugzil.la/[bug-988801
 [devtools-good-first-bug]: http://firefox-dev.tools
 [devtools-project-tracking]: https://wiki.mozilla.org/DevTools/devtools-html#Phase_I_Project_Tracking
+[devtools]: https://github.com/evanxd/firefox-newbie/blob/master/dev-tools.md
