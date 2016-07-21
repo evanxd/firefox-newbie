@@ -6,8 +6,15 @@ Please refer to [Dev Tools Study Group][dev-tools-study-group].
 ### Refactor Inspector Panel
 We can append our new React panel in the below [code][addexistingtab-function]
 ```
+For XUL panel.
 addExistingTab: function (id, title, selected) {
   this._tabbar.addTab(id, title, selected, this.InspectorTabPanel);
+  this.emit("new-tab-registered", id);
+},
+
+// For React panel.
+addTab: function (id, title, selected, panel) {
+  this._tabbar.addTab(id, title, selected, panel);
   this.emit("new-tab-registered", id);
 },
 ```
