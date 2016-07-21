@@ -1,4 +1,5 @@
 # Dev Tools
+Please refer to [Dev Tools Wiki][devtools-wiki].
 
 ## Refactor with React
 Please refer to [Dev Tools Study Group][dev-tools-study-group].
@@ -24,3 +25,5 @@ addTab: function (id, title, selected, panel) {
 
 [dev-tools-study-group]: https://public.etherpad-mozilla.org/p/dev-tools-study-group
 [addexistingtab-function]: https://github.com/mozilla/gecko-dev/blob/a61e84c9f3c99cfa98c05f3460dc1fe01fa7213c/devtools/client/inspector/toolsidebar.js#L92-L96
+
+[devtools-wiki]: https://wiki.mozilla.org/DevTools
