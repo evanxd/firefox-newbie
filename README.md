@@ -38,6 +38,9 @@ Please ensure Firefox is closed before run test.
 ## Mercurial
 * [Mercurial Queues][mercurial-queues]
 
+## Debug Tools
+* [Browser Toolbox][browser-toolbox]
+
 ## Bugs
 * [Good First Bugs for Dev Tools][devtools-good-first-bug]
 * [Dev Tools Project Tracking][devtools-project-tracking]
@@ -58,3 +61,4 @@ Please ensure Firefox is closed before run test.
 [devtools-project-tracking]: https://wiki.mozilla.org/DevTools/devtools-html#Phase_I_Project_Tracking
 [devtools]: https://github.com/evanxd/firefox-newbie/blob/master/dev-tools.md
 [mercurial-queues]: https://github.com/evanxd/firefox-newbie/blob/master/mercurial-queues.md
+[browser-toolbox]: https://github.com/evanxd/firefox-newbie/blob/master/browser-toolbox.md
