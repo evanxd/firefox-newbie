@@ -10,7 +10,8 @@ addExistingTab: function (id, title, selected) {
   this._tabbar.addTab(id, title, selected, this.InspectorTabPanel);
   this.emit("new-tab-registered", id);
 },
-```[addexistingtab-function]
+```
+[addexistingtab-function]
 
 ## about:config
 * `devtools.webconsole.new-frontend-enabled` for enabling REP on web console panel.
