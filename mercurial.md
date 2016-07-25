@@ -3,13 +3,14 @@
 ## Useful Commands
 * Pull and update to latest version: `hg pull -u`
 * Show log tree: `hg log -G`
+* Check the status: `hg status`
 * Add new files in a commit: `hg add new-file`
 * Commit: `hg commit -m 'Commit message'`
 * Create a new branch: `hg branch branch-name`
 * List branches: `hg branches`
 * Checkout to the branch/version: `hg co branch-name-or-rev`
-* `git reset --hard`: `hg revert -a`
-* `git reset --hard HEAD~1`: `hg strip -r .`
+* Reset to current version: `hg revert -a`
+* Go to previous version: `hg strip -r .`
 
 ## Mercurial Queues
 
