@@ -12,6 +12,7 @@
 * Reset to current version: `hg revert -a`
 * Go to previous version: `hg strip -r .`
 * Apply a commit: `hg graft rev`
+* Clean the untracked files: `hg purge`
 
 ## Mercurial Queues
 
