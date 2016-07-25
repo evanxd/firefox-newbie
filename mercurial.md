@@ -1,6 +1,7 @@
 # Mercurial
 
 ## Useful Commands
+* Show log tree: `hg log -G`
 * `git add new-file`: `hg add new-file`
 * Commit: `hg commit -m 'Commit message'`
 * Create a new branch: `hg branch branch-name`
