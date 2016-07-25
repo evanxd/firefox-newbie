@@ -23,5 +23,6 @@ Please refer to [Mercurial Queues][mdn-mercurial-queues] on MDN.
 * New a patch file: `hg patch-name.patch`
 * Import patch file: `hg qimport ~/path/to/patch-name.patch`
 * Check the queues: `hg qseries -s -v`
+* Delete a queue item: `hg qdelete item-name`
 
 [mdn-mercurial-queues]: https://developer.mozilla.org/en-US/docs/Mozilla/Mercurial/Queues
