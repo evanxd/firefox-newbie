@@ -1,6 +1,7 @@
 # Mercurial
 
 ## Useful Commands
+* Pull and update to latest version: `hg pull -u`
 * Show log tree: `hg log -G`
 * `git add new-file`: `hg add new-file`
 * Commit: `hg commit -m 'Commit message'`
