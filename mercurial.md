@@ -11,6 +11,7 @@
 * Checkout to the branch/version: `hg co branch-name-or-rev`
 * Reset to current version: `hg revert -a`
 * Go to previous version: `hg strip -r .`
+* Apply a commit: `hg graft rev`
 
 ## Mercurial Queues
 
