@@ -14,7 +14,7 @@
 * Apply a commit: `hg graft rev`
 * Export patch to a file: `hg export > ~/path/to/patch-name.patch`
 * Clean the untracked files: `hg purge`
-* Make a (`rev-a`) commit as the parent of b(`rev-b`) commit: `hg rebase -s rev-b -d rev-a`
+* Make a(`rev-a`) commit as the parent of b(`rev-b`) commit: `hg rebase -s rev-b -d rev-a`
 
 ## Mercurial Queues
 
