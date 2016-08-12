@@ -29,4 +29,10 @@ addTab: function (id, title, selected, panel) {
 ## Try Command
 * `./mach try -b do -p linux64 -u xpcshell,mochitest-dt,mochitest-o,mochitest-e10s-bc -t none`
 
+## Bugs
+* [Release Tracking][release-tracking]
+* [Dev Tools Toolbar][bugs-devtools-toolbar]
+
 [devtools-wiki]: https://wiki.mozilla.org/DevTools
+[bugs-devtools-toolbar]: https://bugzilla.mozilla.org/buglist.cgi?quicksearch=%5Bdevtools-toolbar%5D&list_id=13162899
+[release-tracking]: https://docs.google.com/spreadsheets/d/12NNrZIC_sEWZ96JgbA1AuckbmIi2rIS8m3aAmyqj9h0/edit#gid=379407117
