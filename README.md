@@ -42,9 +42,7 @@ Please ensure Firefox is closed before run test.
 * [Browser Toolbox][browser-toolbox]
 
 ## Bugs
-* [Good First Bugs for Dev Tools][devtools-good-first-bug]
-* [Dev Tools Project Tracking][devtools-project-tracking]
-* [Dev Tools Toolbar][bugs-devtools-toolbar]
+Check the [bug list][bug-list] here.
 
 ## Tips
 * [Dev Tools][devtools]
@@ -58,9 +56,7 @@ Please ensure Firefox is closed before run test.
 [trychooser-syntax-builder]: http://trychooser.pub.build.mozilla.org
 [bugzilla]: https://bugzilla.mozilla.org
 [bug-988801]: http://bugzil.la/[bug-988801
-[devtools-good-first-bug]: http://firefox-dev.tools
-[devtools-project-tracking]: https://wiki.mozilla.org/DevTools/devtools-html#Phase_I_Project_Tracking
 [devtools]: https://github.com/evanxd/firefox-newbie/blob/master/dev-tools.md
 [mercurial]: https://github.com/evanxd/firefox-newbie/blob/master/mercurial.md
 [browser-toolbox]: https://github.com/evanxd/firefox-newbie/blob/master/browser-toolbox.md
-[bugs-devtools-toolbar]: https://bugzilla.mozilla.org/buglist.cgi?quicksearch=%5Bdevtools-toolbar%5D&list_id=13162899
+[bug-list]: https://github.com/evanxd/firefox-newbie/blob/master/bugs.md
