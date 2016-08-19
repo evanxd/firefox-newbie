@@ -42,7 +42,7 @@ Please ensure Firefox is closed before run test.
 * [Browser Toolbox][browser-toolbox]
 
 ## Bugs
-Check the [bug list][bug-list] here.
+Check [bug list][bug-list] here.
 
 ## Tips
 * [Dev Tools][devtools]
