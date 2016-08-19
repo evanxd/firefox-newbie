@@ -6,3 +6,6 @@
     * [Bug 1150496][bug-1150496] - Better inspector box-model view
 
 [bug-1150496]: http://bugzil.la/1150496
+[devtools-good-first-bug]: http://firefox-dev.tools
+[devtools-project-tracking]: https://wiki.mozilla.org/DevTools/devtools-html#Phase_I_Project_Tracking
+[bugs-devtools-toolbar]: https://bugzilla.mozilla.org/buglist.cgi?quicksearch=%5Bdevtools-toolbar%5D&list_id=13162899
