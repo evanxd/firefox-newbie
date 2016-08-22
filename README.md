@@ -38,8 +38,8 @@ Please ensure Firefox is closed before run test.
 ## Mercurial
 * [Mercurial][mercurial]
 
-## Debug Tools
-* [Browser Toolbox][browser-toolbox]
+## Search Code
+* [Searchfox][searchfox]
 
 ## Bugs
 Check [bug list][bug-list] here.
@@ -58,5 +58,5 @@ Check [bug list][bug-list] here.
 [bug-988801]: http://bugzil.la/[bug-988801
 [devtools]: https://github.com/evanxd/firefox-newbie/blob/master/dev-tools.md
 [mercurial]: https://github.com/evanxd/firefox-newbie/blob/master/mercurial.md
-[browser-toolbox]: https://github.com/evanxd/firefox-newbie/blob/master/browser-toolbox.md
 [bug-list]: https://github.com/evanxd/firefox-newbie/blob/master/bugs.md
+[searchfox]: http://searchfox.org
