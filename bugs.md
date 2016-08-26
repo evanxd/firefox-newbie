@@ -1,6 +1,7 @@
 # Bugs
-  - [Firefox UX Quality Initiative][qx]
-  - [Project Paper Cut][project-paper-cut]
+  - Firefox
+    - [Firefox UX Quality Initiative][qx]
+    - [Project Paper Cut][project-paper-cut]
   - Fennec
     - [For Taipei][fennec-taipei]
   - Dev Tools
