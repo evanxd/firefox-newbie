@@ -1,4 +1,5 @@
 # Bugs
+  - [Firefox UX Quality Initiative][qx]
   - [Project Paper Cut][project-paper-cut]
   - Fennec
     - [For Taipei][fennec-taipei]
@@ -16,3 +17,4 @@
 [devtools-spec]: https://projects.invisionapp.com/share/9G5R8XCYZ#/screens/143217180
 [fennec-taipei]: https://bugzilla.mozilla.org/buglist.cgi?status_whiteboard_type=allwordssubstr&status_whiteboard=%5BTPE-1%5D&resolution=---&query_format=advanced&list_id=13178133
 [project-paper-cut]: https://bugzilla.mozilla.org/show_bug.cgi?id=561125
+[qx]: https://bugzilla.mozilla.org/show_bug.cgi?id=1244854
