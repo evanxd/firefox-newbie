@@ -28,6 +28,10 @@ Please ensure Firefox is closed before run test.
 ### Run A Specific Test
 * Run `./mach test <path_to_test_file>`. For example, run `./mach test devtools/client/shared/components/test/mochitest/test_reps_grip.html` to run the `Rep test - grip` test.
 
+### Run Test on Debug Mode
+1. Add `debugger` in somewhere.
+2. Run `./mach mochitest --jsdebugger ./toolkit/components/passwordmgr/test/browser/browser_capture_doorhanger.js`.
+
 ## Send Try Request
 1. Get your commit access(level 1) by fired a [bugzilla][bugzilla] bug. For example, [Bug 988801][bug-988801] is the bug I got my commit access.
 2. Download the [config][try-config] file and store it in `~/.ssh` directory to setup try info.
