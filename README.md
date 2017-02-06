@@ -41,7 +41,7 @@ Please ensure Firefox is closed before run test.
 
 ## Reivew
 * [Module Owner List][module-owner-list]
-* Push a MozReview: `hg push review`
+* Push a [MozReview][moz-review]: `hg push review`
 
 ## Mercurial
 * [Mercurial][mercurial]
@@ -69,3 +69,4 @@ Check [bug list][bug-list] here.
 [bug-list]: https://github.com/evanxd/firefox-newbie/blob/master/bugs.md
 [searchfox]: http://searchfox.org
 [module-owner-list]: https://wiki.mozilla.org/Modules/All
+[moz-review]: http://mozilla-version-control-tools.readthedocs.io/en/latest/mozreview.html
