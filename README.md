@@ -41,6 +41,7 @@ Please ensure Firefox is closed before run test.
 
 ## Reivew
 * [Module Owner List][module-owner-list]
+* Push a MozReview: `hg push review`
 
 ## Mercurial
 * [Mercurial][mercurial]
