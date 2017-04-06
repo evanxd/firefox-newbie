@@ -8,7 +8,10 @@ Before start to hack Firefox, you need to setup your development environment to 
 1. Install [homebrew][homebrew] with the `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` command.
 2. Run `brew doctor` to ensure there is no warning and show `Your system is ready to brew.` or fix it.
 3. [Install the dependencies for Mac OS][macos-dependencies] with the `curl https://hg.mozilla.org/mozilla-central/raw-file/default/python/mozboot/bin/bootstrap.py > bootstrap.py && python bootstrap.py` command.
-4. Get the source code of Firefox with the `hg clone https://hg.mozilla.org/mozilla-central` command.
+4. Run `brew install mercurial` to install Mercurial (HG).
+5. Run `brew link mercurial` to link Mercurial.
+6. Run `brew link --overwrite git` to link Git.
+7. Get the source code of Firefox with the `hg clone https://hg.mozilla.org/mozilla-central` command.
 
 ### Build Firefox
 1. Download the [mozconfig][mozconfig] file and store it in the `mozilla-central` directory.
