@@ -18,6 +18,7 @@
 * Make a(`rev-a`) commit as the parent of b(`rev-b`) commit: `hg rebase -s rev-b -d rev-a`
 * List specific contributor's commits: `hg log --user "Evan Tseng"`
 * Update commit's date: `hg commit --amend -d now`
+* Change author info: `hg commit --amend --user "Someone's Name <someone@email.com>"`
 
 ## Mercurial Queues
 
