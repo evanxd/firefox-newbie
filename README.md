@@ -51,6 +51,7 @@ For example, run Preferences tests.
 ## Reivew
 * [Module Owner List][module-owner-list]
 * Push a [MozReview][moz-review]: `hg push review`
+* Push a [MozReview][moz-review] with a specific commit: hg push -c COMMIT_NUMBER review
 
 ## Mercurial
 * [Mercurial][mercurial]
